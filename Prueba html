@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ejercicio JS/CSS</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div id="caja-colorida"></div>
+    <button onclick="cambiarColor()">Cambiar Color</button>
+    <script src="./javascript/script.js"></script>
+    
+</body>
+</html>
